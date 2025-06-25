@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "335354892559",
+    "firebase_url": "https://waves-of-food-60abf-default-rtdb.firebaseio.com",
+    "project_id": "waves-of-food-60abf",
+    "storage_bucket": "waves-of-food-60abf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335354892559:android:eae58bc3a6c1dd8f4e6e7a",
+        "android_client_info": {
+          "package_name": "com.example.adminwavesoffood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335354892559-ot9ppic0meeta3oja4geef1u4f8sco6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminwavesoffood",
+            "certificate_hash": "2360de6dcd79d766dd6539e4fb98c654b17072e6"
+          }
+        },
+        {
+          "client_id": "335354892559-d48bffvscajvg0s63odpnjlk4rsb50ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7SU4J5I8VjQ57jtks6c7VYX0E3eYxK4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335354892559-d48bffvscajvg0s63odpnjlk4rsb50ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335354892559:android:7161f87639ef28d04e6e7a",
+        "android_client_info": {
+          "package_name": "com.example.waves_of_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335354892559-0cgq8i8o6u6jjpg636aa18j78gh9p53n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waves_of_food",
+            "certificate_hash": "2360de6dcd79d766dd6539e4fb98c654b17072e6"
+          }
+        },
+        {
+          "client_id": "335354892559-d48bffvscajvg0s63odpnjlk4rsb50ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7SU4J5I8VjQ57jtks6c7VYX0E3eYxK4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335354892559-d48bffvscajvg0s63odpnjlk4rsb50ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
